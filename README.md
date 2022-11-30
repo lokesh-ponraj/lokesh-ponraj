@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Full Stack development and Machine Learning**
 
-- Reach out me 🙌 [lokesh-me.netlify.app](Here)
+- Reach out me 🙌 [Here](lokesh-me.netlify.app)
 
 - 💬 Ask me about **React,JavaScript and Java**
 
