@@ -11,7 +11,7 @@
 
 - Reach out me 🙌 [Here](lokesh-me.netlify.app)
 
-- 💬 Ask me about **React,JavaScript and Java**
+- 💬 Ask me about **<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>**
 
 -
 
