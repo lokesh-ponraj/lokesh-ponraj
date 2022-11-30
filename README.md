@@ -1,22 +1,20 @@
-<h5 align="center">Get to know</h5>
+<h3 align="center">Get to know</h3>
 <h1 align="center">Lokesh Ponraj</h1>
-<h3 align="center">A budding Full Stack Developer, UI/UX designer and App Developer. .</h3>
+<img align="right" width="500" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" alt="profile">
+
+<h2 align="left">A budding Full Stack Developer.</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lokesh-ponraj&label=Profile%20views&color=0e75b6&style=flat" alt="lokesh-ponraj" /> </p>
 
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🌱 I’m currently learning **Full Stack development and Machine Learning**
+- 🌱 I’m currently learning **Full Stack development**
 
 - Reach out me 🙌 [Here](lokesh-me.netlify.app)
-
+- Contact me [Here](mailto:lokeshmech157@gmail.com)
 - 💬 Ask me about 
 **<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> </a>**
-
-
-
-<h3 align="left">Connect with me:</h3>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+<h3 align="left">Social Profiles:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/lokesh-ponraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/lokesh-ponraj" height="30" width="40" /></a>
 <a href="https://instagram.com/_lok_iz_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_lok_iz_" height="30" width="40" /></a>
