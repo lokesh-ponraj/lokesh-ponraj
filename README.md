@@ -1,17 +1,19 @@
-<h1 align="center">Get to know Lokesh Ponraj</h1>
+<h5 align="center">Get to know</h5>
+<h1 align="center">Lokesh Ponraj</h1>
 <h3 align="center">A budding Full Stack Developer, UI/UX designer and App Developer. .</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lokesh-ponraj&label=Profile%20views&color=0e75b6&style=flat" alt="lokesh-ponraj" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lokesh-ponraj" alt="lokesh-ponraj" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I’m currently learning **Full Stack development and Machine Learning**
 
-- Reach out me with 🙌 [lokesh-me.netlify.app](lokesh-me.netlify.app)
+- Reach out me 🙌 [lokesh-me.netlify.app](Here)
 
 - 💬 Ask me about **React,JavaScript and Java**
+
+-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
