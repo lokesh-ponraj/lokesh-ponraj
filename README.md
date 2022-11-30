@@ -11,9 +11,10 @@
 
 - Reach out me 🙌 [Here](lokesh-me.netlify.app)
 
-- 💬 Ask me about **<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>**
+- 💬 Ask me about 
+**<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> </a>**
 
--
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
