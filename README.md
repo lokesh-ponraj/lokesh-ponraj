@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lokesh-ponraj&label=Profile%20views&color=0e75b6&style=flat" alt="lokesh-ponraj" /> </p>
 
-- 🌱 I’m currently learning **Full Stack development**
+- 🌱 I’m currently learning **Cross platform app development**
 
 - Reach out me 🙌 [Here](lokesh-me.netlify.app)
 - Contact me [Here](mailto:tech.lokeshponraj@gmail.com)
